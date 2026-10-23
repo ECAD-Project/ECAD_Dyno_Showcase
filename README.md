@@ -51,7 +51,7 @@ distribution of functional subsystems, the eight
 coarse load channels, and the proposed U-shaped
 high-current busbar arrangement.
 
-![ECAD_Dyno Preliminary PCB Floorplan](images/pcb_floorplan.png)
+![ECAD_Dyno Preliminary PCB Floorplan](images/ECAD_Dyno_Floorplan_Vector.svg)
 
 *Preliminary placement concept. Component positions,
 routing, and mechanical dimensions remain subject
