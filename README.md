@@ -1,4 +1,4 @@
-# ECAD_Dyno
+# ECAD Dyno
 ### Closed-Loop Small Engine Dynamometer Control Board
 
 ![ECAD Dyno preliminary PCB assembly](images/3d.png)
@@ -9,7 +9,7 @@
 
 ## Overview
 
-ECAD_Dyno is a collaborative engineering project developing a custom electronic load, control, and measurement system for a small engine dynamometer.
+ECAD Dyno is a collaborative engineering project developing a custom electronic load, control, and measurement system for a small engine dynamometer.
 
 ![ECAD_Dyno System Architecture](images/ECAD_Dyno_01_system_architecture.svg)
 
