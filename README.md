@@ -63,7 +63,7 @@ to revision.*
 
 The PCB is currently in the component placement stage, with functional sections arranged around the high-current distribution architecture. Routing, busbar integration, and physical validation remain pending.
 
-![KiCad PCB Editor — Preliminary Component Placement](images/pcb_editor.png)
+![KiCad PCB Editor — Preliminary Component Placement](images/Screenshot(150).png)
 
 *Preliminary PCB placement in KiCad 10.*
 
