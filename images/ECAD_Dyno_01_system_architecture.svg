@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="full" height="840" version="1.1" viewBox="0 100 1300 840" width="1300">
+  <defs>
+    <marker id="arr-ink" markerHeight="10" markerUnits="userSpaceOnUse" markerWidth="10" orient="auto-start-reverse" refX="3" refY="5">
+      <polygon fill="#344659" points="0,0 9,5 0,10"/>
+    </marker>
+    <marker id="arr-orange" markerHeight="10" markerUnits="userSpaceOnUse" markerWidth="10" orient="auto-start-reverse" refX="3" refY="5">
+      <polygon fill="#C26027" points="0,0 9,5 0,10"/>
+    </marker>
+    <marker id="arr-teal" markerHeight="10" markerUnits="userSpaceOnUse" markerWidth="10" orient="auto-start-reverse" refX="3" refY="5">
+      <polygon fill="#13788B" points="0,0 9,5 0,10"/>
+    </marker>
+    <marker id="arr-blue" markerHeight="10" markerUnits="userSpaceOnUse" markerWidth="10" orient="auto-start-reverse" refX="3" refY="5">
+      <polygon fill="#3658A3" points="0,0 9,5 0,10"/>
+    </marker>
+  </defs>
+  <rect fill="white" height="940" width="1300" x="0" y="0"/>
+  <text fill="#577087" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="1px" text-anchor="start" x="66" y="142">ENGINE AND GENERATOR</text>
+  <text fill="#577087" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="1px" text-anchor="start" x="1000" y="408">LOAD BANKS</text>
+  <polyline fill="none" marker-end="url(#arr-ink)" points="560,204 690.5,204" stroke="#344659" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.7"/>
+  <polyline fill="none" marker-end="url(#arr-ink)" points="888.5,204 967.5,204" stroke="#344659" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.7"/>
+  <text fill="#344659" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" font-weight="400" text-anchor="middle" x="628.25" y="190">Shaft</text>
+  <text fill="#344659" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" font-weight="400" text-anchor="middle" x="931" y="190">Shaft</text>
+  <polyline fill="none" marker-end="url(#arr-teal)" points="735,242 735,267 682,267 682,417 735,417 735,448" stroke="#13788B" stroke-dasharray="7 7" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.6"/>
+  <text fill="#13788B" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" font-weight="400" text-anchor="end" x="668" y="398">Torque feedback</text>
+  <polyline fill="none" marker-end="url(#arr-teal)" points="931,204 931,271 792.5,271 792.5,286" stroke="#13788B" stroke-dasharray="7 7" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.4"/>
+  <polyline fill="none" marker-end="url(#arr-teal)" points="792.5,360 792.5,448" stroke="#13788B" stroke-dasharray="7 7" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.6"/>
+  <text fill="#13788B" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" font-weight="400" text-anchor="end" x="779.5" y="420">RPM</text>
+  <polyline fill="none" marker-end="url(#arr-teal)" points="315,204 177,204 177,463" stroke="#13788B" stroke-dasharray="7 7" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5"/>
+  <text fill="#13788B" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" font-weight="400" text-anchor="start" x="185" y="352">Temperature</text>
+  <polyline fill="none" marker-end="url(#arr-blue)" points="437.5,461 437.5,248" stroke="#3658A3" stroke-dasharray="8 7" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.9"/>
+  <text fill="#3658A3" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" font-weight="400" text-anchor="start" x="452.5" y="359">Fuel actuation</text>
+  <polyline fill="none" marker-end="url(#arr-orange)" points="1043.5,242 1043.5,387 850,387 850,448" stroke="#C26027" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.4"/>
+  <text fill="#C26027" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" text-anchor="middle" x="947" y="375">DC supply (+ / −)</text>
+  <polyline fill="none" marker-end="url(#arr-ink)" points="1127.5,445 1127.5,248" stroke="#344659" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.1"/>
+  <text fill="#344659" font-family="DejaVu Sans,Arial,sans-serif" font-size="12.5" font-weight="400" text-anchor="start" x="1168" y="339">External return</text>
+  <text fill="#577087" font-family="DejaVu Sans,Arial,sans-serif" font-size="12" font-weight="400" text-anchor="start" x="1168" y="359">Bypasses PCB</text>
+  <polyline fill="none" marker-end="url(#arr-orange)" points="895,488 1009,488" stroke="#C26027" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.5"/>
+  <text fill="#C26027" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" text-anchor="middle" x="953" y="471">Switched +</text>
+  <polyline fill="none" marker-end="url(#arr-orange)" points="895,523 954,523 954,657 1009,657" stroke="#C26027" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.2"/>
+  <polyline fill="none" marker-end="url(#arr-orange)" points="1015,691 929,691 929,549 901,549" stroke="#C26027" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.2"/>
+  <text fill="#C26027" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" font-weight="400" text-anchor="end" x="1002" y="641">PWM +</text>
+  <text fill="#C26027" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" font-weight="400" text-anchor="end" x="1003" y="717">−</text>
+  <polyline fill="none" marker-end="url(#arr-blue)" points="690,505 566,505" stroke="#3658A3" stroke-dasharray="8 7" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.8"/>
+  <text fill="#3658A3" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" font-weight="400" text-anchor="middle" x="624" y="490">Servo commands</text>
+  <polyline fill="none" marker-end="url(#arr-teal)" points="177,544 177,642" stroke="#13788B" stroke-dasharray="7 7" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5"/>
+  <text fill="#13788B" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" font-weight="400" text-anchor="start" x="189" y="603">Sensor leads</text>
+  <polyline fill="none" marker-end="url(#arr-teal)" points="307,684 615,684 615,540 684,540" stroke="#13788B" stroke-dasharray="7 7" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.7"/>
+  <text fill="#13788B" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" font-weight="400" text-anchor="start" x="474" y="668">Temperature data</text>
+  <line marker-end="url(#arr-blue)" marker-start="url(#arr-blue)" stroke="#3658A3" stroke-dasharray="8 7" stroke-linecap="round" stroke-width="2.7" x1="792" x2="792" y1="575" y2="755"/>
+  <text fill="#3658A3" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" font-weight="400" text-anchor="end" x="785" y="672">USB / logging</text>
+  <rect fill="#F6F8FA" height="76" rx="12" ry="12" stroke="#344659" stroke-width="1.9" width="245" x="315" y="166"/>
+  <text fill="#18283A" font-family="DejaVu Sans,Arial,sans-serif" font-size="18.5" font-weight="600" text-anchor="middle" x="437.5" y="210.475">Combustion engine</text>
+  <rect fill="#EDF9FB" height="76" rx="12" ry="12" stroke="#13788B" stroke-width="1.9" width="192" x="696.5" y="166"/>
+  <text fill="#18283A" font-family="DejaVu Sans,Arial,sans-serif" font-size="17.5" font-weight="600" text-anchor="middle" x="792.5" y="210.125">Torque sensor</text>
+  <rect fill="#F6F8FA" height="76" rx="12" ry="12" stroke="#344659" stroke-width="1.9" width="248" x="973.5" y="166"/>
+  <text fill="#18283A" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" text-anchor="middle" x="1097.5" y="210.3">Automotive alternator</text>
+  <rect fill="#EDF9FB" height="68" rx="12" ry="12" stroke="#13788B" stroke-width="1.9" width="170" x="707.5" y="292"/>
+  <text fill="#18283A" font-family="DejaVu Sans,Arial,sans-serif" font-size="17.5" font-weight="600" text-anchor="middle" x="792.5" y="332.125">RPM sensor</text>
+  <rect fill="#F0F4FC" height="84" rx="12" ry="12" stroke="#3658A3" stroke-width="1.9" width="245" x="315" y="461"/>
+  <text fill="#18283A" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" text-anchor="middle" x="437.5" y="509.3">External fuel servo</text>
+  <rect fill="#F0F4FC" height="115" rx="12" ry="12" stroke="#3658A3" stroke-width="1.9" width="205" x="690" y="454"/>
+  <text fill="#18283A" font-family="DejaVu Sans,Arial,sans-serif" font-size="26" font-weight="600" text-anchor="middle" x="792.5" y="520.6">PCB</text>
+  <rect fill="#F6F8FA" height="86" rx="12" ry="12" stroke="#344659" stroke-width="1.9" width="225" x="1015" y="445"/>
+  <text fill="#18283A" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" text-anchor="middle" x="1127.5" y="487">Coarse load bank</text>
+  <text fill="#577087" font-family="DejaVu Sans,Arial,sans-serif" font-size="15" font-weight="400" text-anchor="middle" x="1127.5" y="514">8 resistive elements</text>
+  <rect fill="#F6F8FA" height="91" rx="12" ry="12" stroke="#344659" stroke-width="1.9" width="225" x="1015" y="631"/>
+  <text fill="#18283A" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" text-anchor="middle" x="1127.5" y="675.5">Fine load resistor</text>
+  <text fill="#577087" font-family="DejaVu Sans,Arial,sans-serif" font-size="15" font-weight="400" text-anchor="middle" x="1127.5" y="702.5">PWM-controlled element</text>
+  <rect fill="#EDF9FB" height="75" rx="12" ry="12" stroke="#13788B" stroke-width="1.9" width="224" x="65" y="469"/>
+  <text fill="#18283A" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" font-weight="600" text-anchor="middle" x="177.0" y="512.45">Temperature sensors</text>
+  <rect fill="#EDF9FB" height="80" rx="12" ry="12" stroke="#13788B" stroke-width="1.9" width="260" x="47" y="648"/>
+  <text fill="#18283A" font-family="DejaVu Sans,Arial,sans-serif" font-size="15.6" font-weight="600" text-anchor="middle" x="177" y="693.46">Temperature interface PCB</text>
+  <rect fill="#F6F8FA" height="79" rx="12" ry="12" stroke="#344659" stroke-width="1.9" width="205" x="690" y="761"/>
+  <text fill="#18283A" font-family="DejaVu Sans,Arial,sans-serif" font-size="19" font-weight="600" text-anchor="middle" x="792.5" y="799.5">Host PC</text>
+  <text fill="#577087" font-family="DejaVu Sans,Arial,sans-serif" font-size="15" font-weight="400" text-anchor="middle" x="792.5" y="826.5">USB / logging</text>
+  <polyline fill="none" marker-end="url(#arr-ink)" points="60,889 99,889" stroke="#344659" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.2"/>
+  <text fill="#577087" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" text-anchor="start" x="117" y="894">Mechanical / return path</text>
+  <polyline fill="none" marker-end="url(#arr-orange)" points="372,889 411,889" stroke="#C26027" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.2"/>
+  <text fill="#577087" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" text-anchor="start" x="429" y="894">Electrical load path</text>
+  <polyline fill="none" marker-end="url(#arr-teal)" points="657,889 696,889" stroke="#13788B" stroke-dasharray="7 7" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5"/>
+  <text fill="#577087" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" text-anchor="start" x="714" y="894">Measurements</text>
+  <polyline fill="none" marker-end="url(#arr-blue)" points="905,889 944,889" stroke="#3658A3" stroke-dasharray="8 7" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5"/>
+  <text fill="#577087" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" text-anchor="start" x="962" y="894">Control / communication</text>
+  </svg>
