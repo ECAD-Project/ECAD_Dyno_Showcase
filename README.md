@@ -102,7 +102,12 @@ The documentation will cover system architecture, electrical design, engineering
 
 ## Project Team
 
-ECAD_Dyno is developed collaboratively. Team member information and individual contributions will be added.
+ECAD Dyno is a collaborative engineering project
+developed by:
+
+- [Hamza Sacic](https://github.com/hamzasacicgit)
+- [Mohamed Habidu](https://github.com/Mohamedhabidu)
+- [Mikael Zetterling](https://github.com/MikaelZetterling)
 
 ---
 
