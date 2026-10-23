@@ -59,6 +59,14 @@ high-current busbar arrangement.
 routing, and mechanical dimensions remain subject
 to revision.*
 
+## PCB Design Progress
+
+The PCB is currently in the component placement stage, with functional sections arranged around the high-current distribution architecture. Routing, busbar integration, and physical validation remain pending.
+
+![KiCad PCB Editor — Preliminary Component Placement](images/pcb_editor.png)
+
+*Preliminary PCB placement in KiCad 10.*
+
 ## Board Functional Architecture
 
 The PCB integrates five functional sections,
