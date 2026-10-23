@@ -9,7 +9,7 @@
 
 ECAD_Dyno is a collaborative engineering project developing a custom electronic load, control, and measurement system for a small engine dynamometer.
 
-![ECAD_Dyno System Architecture](images/ECAD_Dyno_01_system_architecture.svd)
+![ECAD_Dyno System Architecture](images/images/ECAD_Dyno_01_system_architecture.svg)
 
 An engine-driven automotive alternator provides the electrical load, regulated through eight independently controlled high-current channels and a separate PWM stage for fine adjustment.
 
