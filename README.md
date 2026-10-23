@@ -1,6 +1,8 @@
 # ECAD_Dyno
 ### Closed-Loop Small Engine Dynamometer
 
+![ECAD Dyno preliminary PCB assembly](images/3d.png)
+
 **Status:** In development — ECAD / PCB design phase  
 **Tools:** KiCad 10  
 **Fields:** Power Electronics · PCB Design · Embedded Systems · Control Systems · Instrumentation
