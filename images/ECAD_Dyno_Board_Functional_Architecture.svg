@@ -1,0 +1,155 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 110 2200 1370" width="2200" height="1370">
+<defs>
+ <marker id="arr-power" markerUnits="userSpaceOnUse" markerWidth="14" markerHeight="14" refX="12" refY="7" orient="auto"><path d="M2 2 L12 7 L2 12 Z" stroke="#C7782C" stroke-width="0.7" fill="#C7782C" stroke-linejoin="round"/></marker>
+ <marker id="arr-blue" markerUnits="userSpaceOnUse" markerWidth="14" markerHeight="14" refX="12" refY="7" orient="auto"><path d="M2 2 L12 7 L2 12 Z" stroke="#3566AB" stroke-width="0.7" fill="#3566AB" stroke-linejoin="round"/></marker>
+ <marker id="arr-teal" markerUnits="userSpaceOnUse" markerWidth="14" markerHeight="14" refX="12" refY="7" orient="auto"><path d="M2 2 L12 7 L2 12 Z" stroke="#168274" stroke-width="0.7" fill="#168274" stroke-linejoin="round"/></marker>
+ <marker id="arr-red" markerUnits="userSpaceOnUse" markerWidth="14" markerHeight="14" refX="12" refY="7" orient="auto"><path d="M2 2 L12 7 L2 12 Z" stroke="#C64D58" stroke-width="0.7" fill="#C64D58" stroke-linejoin="round"/></marker>
+ </defs>
+<rect x="0" y="0" width="2200" height="1480" fill="#F8FAFD"/>
+
+<rect x="311" y="155" width="1528" height="1185" rx="24" fill="#FFFFFF" stroke="#B8C9D9" stroke-width="2" stroke-dasharray="12 10"/>
+<text x="350" y="191" font-family="Inter,Arial,Helvetica,sans-serif" font-size="20" fill="#536478" font-weight="750" text-anchor="start" letter-spacing="2.1">ON-BOARD ELECTRONICS</text>
+<text x="43" y="222" font-family="Inter,Arial,Helvetica,sans-serif" font-size="18" fill="#536478" font-weight="750" text-anchor="start" letter-spacing="1.1">EXTERNAL INPUTS</text>
+<text x="1874" y="194" font-family="Inter,Arial,Helvetica,sans-serif" font-size="18" fill="#536478" font-weight="750" text-anchor="start" letter-spacing="1.1">EXTERNAL LOADS</text>
+<rect x="335" y="205" width="1479" height="357" rx="18" fill="#FAF4EA" stroke="#FAF4EA" stroke-width="0" />
+<rect x="335" y="574" width="1479" height="215" rx="18" fill="#EAF7F4" stroke="#EAF7F4" stroke-width="0" />
+<rect x="335" y="800" width="1479" height="520" rx="18" fill="#EFF4FB" stroke="#EFF4FB" stroke-width="0" />
+<text x="357" y="235" font-family="Inter,Arial,Helvetica,sans-serif" font-size="17" fill="#C7782C" font-weight="750" text-anchor="start" letter-spacing="1.3">HIGH-CURRENT DISTRIBUTION</text>
+<text x="357" y="607" font-family="Inter,Arial,Helvetica,sans-serif" font-size="17" fill="#168274" font-weight="750" text-anchor="start" letter-spacing="1.3">AUXILIARY POWER</text>
+<text x="357" y="831" font-family="Inter,Arial,Helvetica,sans-serif" font-size="17" fill="#3566AB" font-weight="750" text-anchor="start" letter-spacing="1.3">CONTROL &amp; HARDWARE INTERLOCKS</text>
+<rect x="40" y="343" width="242" height="103" rx="19" fill="#F5F7FA" stroke="#D6E0EA" stroke-width="2" />
+<rect x="40" y="343" width="8" height="103" rx="3" fill="#C7782C" stroke="#C7782C" stroke-width="0" />
+<text x="67" y="385" font-family="Inter,Arial,Helvetica,sans-serif" font-size="25" fill="#15263B" font-weight="750" text-anchor="start" letter-spacing="0">12 V alternator</text>
+<text x="67" y="417" font-family="Inter,Arial,Helvetica,sans-serif" font-size="20" fill="#536478" font-weight="400" text-anchor="start" letter-spacing="0">Alternator DC • VIN</text>
+<rect x="362" y="315" width="345" height="142" rx="19" fill="#FFFFFF" stroke="#D6E0EA" stroke-width="2" />
+<rect x="362" y="315" width="8" height="142" rx="3" fill="#C7782C" stroke="#C7782C" stroke-width="0" />
+<text x="389" y="341" font-family="Inter,Arial,Helvetica,sans-serif" font-size="17" fill="#C7782C" font-weight="750" text-anchor="start" letter-spacing="1.5">01</text>
+<text x="389" y="372" font-family="Inter,Arial,Helvetica,sans-serif" font-size="25" fill="#15263B" font-weight="750" text-anchor="start" letter-spacing="0">Input protection</text>
+<text x="389" y="404" font-family="Inter,Arial,Helvetica,sans-serif" font-size="20" fill="#536478" font-weight="400" text-anchor="start" letter-spacing="0">LM74800-Q1 + MOSFETs</text>
+<text x="389" y="432" font-family="Inter,Arial,Helvetica,sans-serif" font-size="20" fill="#536478" font-weight="400" text-anchor="start" letter-spacing="0">Reverse • OV • precharge</text>
+<rect x="777" y="339" width="253" height="89" rx="14" fill="#FDEDD6" stroke="#DEB77E" stroke-width="2" />
+<text x="903" y="375" font-family="Inter,Arial,Helvetica,sans-serif" font-size="25" fill="#15263B" font-weight="800" text-anchor="middle" letter-spacing="0">VBUS_PROT</text>
+<text x="903" y="406" font-family="Inter,Arial,Helvetica,sans-serif" font-size="20" fill="#536478" font-weight="450" text-anchor="middle" letter-spacing="0">Protected DC bus</text>
+<rect x="1122" y="217" width="677" height="150" rx="19" fill="#FFFFFF" stroke="#D6E0EA" stroke-width="2" />
+<rect x="1122" y="217" width="8" height="150" rx="3" fill="#C7782C" stroke="#C7782C" stroke-width="0" />
+<text x="1149" y="243" font-family="Inter,Arial,Helvetica,sans-serif" font-size="17" fill="#C7782C" font-weight="750" text-anchor="start" letter-spacing="1.5">03</text>
+<text x="1149" y="274" font-family="Inter,Arial,Helvetica,sans-serif" font-size="25" fill="#15263B" font-weight="750" text-anchor="start" letter-spacing="0">Coarse switched outputs ×8</text>
+<text x="1149" y="306" font-family="Inter,Arial,Helvetica,sans-serif" font-size="22" fill="#536478" font-weight="400" text-anchor="start" letter-spacing="0">High-side PMOS • per-channel fuse and shunt</text>
+<text x="1149" y="334" font-family="Inter,Arial,Helvetica,sans-serif" font-size="22" fill="#536478" font-weight="400" text-anchor="start" letter-spacing="0">INA300 overcurrent sensing • latched shutdown</text>
+<rect x="1122" y="400" width="677" height="147" rx="19" fill="#FFFFFF" stroke="#D6E0EA" stroke-width="2" />
+<rect x="1122" y="400" width="8" height="147" rx="3" fill="#C7782C" stroke="#C7782C" stroke-width="0" />
+<text x="1149" y="426" font-family="Inter,Arial,Helvetica,sans-serif" font-size="17" fill="#C7782C" font-weight="750" text-anchor="start" letter-spacing="1.5">04</text>
+<text x="1149" y="457" font-family="Inter,Arial,Helvetica,sans-serif" font-size="25" fill="#15263B" font-weight="750" text-anchor="start" letter-spacing="0">Fine adjustable load</text>
+<text x="1149" y="489" font-family="Inter,Arial,Helvetica,sans-serif" font-size="22" fill="#536478" font-weight="400" text-anchor="start" letter-spacing="0">Low-side NMOS PWM • driver • shunt</text>
+<text x="1149" y="517" font-family="Inter,Arial,Helvetica,sans-serif" font-size="22" fill="#536478" font-weight="400" text-anchor="start" letter-spacing="0">Fast current-trip comparator + pulse latch</text>
+<rect x="1875" y="236" width="287" height="115" rx="19" fill="#F5F7FA" stroke="#D6E0EA" stroke-width="2" />
+<rect x="1875" y="236" width="8" height="115" rx="3" fill="#C7782C" stroke="#C7782C" stroke-width="0" />
+<text x="1902" y="278" font-family="Inter,Arial,Helvetica,sans-serif" font-size="25" fill="#15263B" font-weight="750" text-anchor="start" letter-spacing="0">8 resistive loads</text>
+<text x="1902" y="310" font-family="Inter,Arial,Helvetica,sans-serif" font-size="20" fill="#536478" font-weight="400" text-anchor="start" letter-spacing="0">Return goes off-board</text>
+<rect x="1875" y="412" width="287" height="124" rx="19" fill="#F5F7FA" stroke="#D6E0EA" stroke-width="2" />
+<rect x="1875" y="412" width="8" height="124" rx="3" fill="#C7782C" stroke="#C7782C" stroke-width="0" />
+<text x="1902" y="454" font-family="Inter,Arial,Helvetica,sans-serif" font-size="25" fill="#15263B" font-weight="750" text-anchor="start" letter-spacing="0">Fine resistive load</text>
+<text x="1902" y="486" font-family="Inter,Arial,Helvetica,sans-serif" font-size="20" fill="#536478" font-weight="400" text-anchor="start" letter-spacing="0">VBUS+ → load → NMOS</text>
+<text x="1902" y="514" font-family="Inter,Arial,Helvetica,sans-serif" font-size="20" fill="#536478" font-weight="400" text-anchor="start" letter-spacing="0">→ PGND</text>
+<rect x="362" y="627" width="370" height="145" rx="19" fill="#FFFFFF" stroke="#D6E0EA" stroke-width="2" />
+<rect x="362" y="627" width="8" height="145" rx="3" fill="#168274" stroke="#168274" stroke-width="0" />
+<text x="389" y="653" font-family="Inter,Arial,Helvetica,sans-serif" font-size="17" fill="#168274" font-weight="750" text-anchor="start" letter-spacing="1.5">02</text>
+<text x="389" y="684" font-family="Inter,Arial,Helvetica,sans-serif" font-size="25" fill="#15263B" font-weight="750" text-anchor="start" letter-spacing="0">5 V supply &amp; backup</text>
+<text x="389" y="716" font-family="Inter,Arial,Helvetica,sans-serif" font-size="20" fill="#536478" font-weight="400" text-anchor="start" letter-spacing="0">Buck: LM65625-Q1</text>
+<text x="389" y="744" font-family="Inter,Arial,Helvetica,sans-serif" font-size="20" fill="#536478" font-weight="400" text-anchor="start" letter-spacing="0">LTC4040 • LiFePO4 • OFF switch</text>
+<rect x="782" y="641" width="248" height="93" rx="14" fill="#DDF3EC" stroke="#98D0BD" stroke-width="2" />
+<text x="906" y="674" font-family="Inter,Arial,Helvetica,sans-serif" font-size="25" fill="#15263B" font-weight="800" text-anchor="middle" letter-spacing="0">BOARD_5V</text>
+<text x="906" y="707" font-family="Inter,Arial,Helvetica,sans-serif" font-size="20" fill="#536478" font-weight="400" text-anchor="middle" letter-spacing="0">Auxiliary supply rail</text>
+<rect x="1122" y="630" width="677" height="125" rx="19" fill="#FFFFFF" stroke="#D6E0EA" stroke-width="2" />
+<rect x="1122" y="630" width="8" height="125" rx="3" fill="#168274" stroke="#168274" stroke-width="0" />
+<text x="1149" y="672" font-family="Inter,Arial,Helvetica,sans-serif" font-size="25" fill="#15263B" font-weight="750" text-anchor="start" letter-spacing="0">Powered board hardware</text>
+<text x="1149" y="704" font-family="Inter,Arial,Helvetica,sans-serif" font-size="22" fill="#536478" font-weight="400" text-anchor="start" letter-spacing="0">Drivers, logic, comparators and status LEDs</text>
+<text x="1149" y="732" font-family="Inter,Arial,Helvetica,sans-serif" font-size="22" fill="#536478" font-weight="400" text-anchor="start" letter-spacing="0">ESP32 power: USB or BOARD_5V</text>
+<rect x="40" y="879" width="242" height="109" rx="19" fill="#F5F7FA" stroke="#D6E0EA" stroke-width="2" />
+<rect x="40" y="879" width="8" height="109" rx="3" fill="#3566AB" stroke="#3566AB" stroke-width="0" />
+<text x="67" y="921" font-family="Inter,Arial,Helvetica,sans-serif" font-size="25" fill="#15263B" font-weight="750" text-anchor="start" letter-spacing="0">USB</text>
+<text x="67" y="953" font-family="Inter,Arial,Helvetica,sans-serif" font-size="20" fill="#536478" font-weight="400" text-anchor="start" letter-spacing="0">ESP32 power &amp;</text>
+<text x="67" y="981" font-family="Inter,Arial,Helvetica,sans-serif" font-size="20" fill="#536478" font-weight="400" text-anchor="start" letter-spacing="0">programming</text>
+<rect x="40" y="1190" width="242" height="125" rx="19" fill="#F5F7FA" stroke="#D6E0EA" stroke-width="2" />
+<rect x="40" y="1190" width="8" height="125" rx="3" fill="#3566AB" stroke="#3566AB" stroke-width="0" />
+<text x="67" y="1232" font-family="Inter,Arial,Helvetica,sans-serif" font-size="25" fill="#15263B" font-weight="750" text-anchor="start" letter-spacing="0">Sensors</text>
+<text x="67" y="1264" font-family="Inter,Arial,Helvetica,sans-serif" font-size="20" fill="#536478" font-weight="400" text-anchor="start" letter-spacing="0">RPM / torque feedback</text>
+<text x="67" y="1292" font-family="Inter,Arial,Helvetica,sans-serif" font-size="20" fill="#536478" font-weight="400" text-anchor="start" letter-spacing="0">Remote temperatures</text>
+<rect x="782" y="868" width="338" height="164" rx="19" fill="#FFFFFF" stroke="#D6E0EA" stroke-width="2" />
+<rect x="782" y="868" width="8" height="164" rx="3" fill="#3566AB" stroke="#3566AB" stroke-width="0" />
+<text x="809" y="894" font-family="Inter,Arial,Helvetica,sans-serif" font-size="17" fill="#3566AB" font-weight="750" text-anchor="start" letter-spacing="1.5">05</text>
+<text x="809" y="925" font-family="Inter,Arial,Helvetica,sans-serif" font-size="25" fill="#15263B" font-weight="750" text-anchor="start" letter-spacing="0">ESP32-S3 controller</text>
+<text x="809" y="957" font-family="Inter,Arial,Helvetica,sans-serif" font-size="21" fill="#536478" font-weight="400" text-anchor="start" letter-spacing="0">Removable DevKitC-1</text>
+<text x="809" y="985" font-family="Inter,Arial,Helvetica,sans-serif" font-size="21" fill="#536478" font-weight="400" text-anchor="start" letter-spacing="0">Coarse pattern • PWM</text>
+<text x="809" y="1013" font-family="Inter,Arial,Helvetica,sans-serif" font-size="21" fill="#536478" font-weight="400" text-anchor="start" letter-spacing="0">Sensor readout + status</text>
+<rect x="1180" y="863" width="619" height="146" rx="19" fill="#FFFFFF" stroke="#D6E0EA" stroke-width="2" />
+<rect x="1180" y="863" width="8" height="146" rx="3" fill="#3566AB" stroke="#3566AB" stroke-width="0" />
+<text x="1207" y="889" font-family="Inter,Arial,Helvetica,sans-serif" font-size="17" fill="#3566AB" font-weight="750" text-anchor="start" letter-spacing="1.5">03</text>
+<text x="1207" y="920" font-family="Inter,Arial,Helvetica,sans-serif" font-size="25" fill="#15263B" font-weight="750" text-anchor="start" letter-spacing="0">Coarse drive &amp; enable logic</text>
+<text x="1207" y="952" font-family="Inter,Arial,Helvetica,sans-serif" font-size="21" fill="#536478" font-weight="400" text-anchor="start" letter-spacing="0">2 × TLC6C598-Q1 serial output drivers</text>
+<text x="1207" y="980" font-family="Inter,Arial,Helvetica,sans-serif" font-size="21" fill="#536478" font-weight="400" text-anchor="start" letter-spacing="0">Hardware gating; common fault disables all outputs</text>
+<rect x="1180" y="1110" width="619" height="148" rx="19" fill="#FFFFFF" stroke="#D6E0EA" stroke-width="2" />
+<rect x="1180" y="1110" width="8" height="148" rx="3" fill="#3566AB" stroke="#3566AB" stroke-width="0" />
+<text x="1207" y="1136" font-family="Inter,Arial,Helvetica,sans-serif" font-size="17" fill="#3566AB" font-weight="750" text-anchor="start" letter-spacing="1.5">04</text>
+<text x="1207" y="1167" font-family="Inter,Arial,Helvetica,sans-serif" font-size="25" fill="#15263B" font-weight="750" text-anchor="start" letter-spacing="0">Fine PWM logic</text>
+<text x="1207" y="1199" font-family="Inter,Arial,Helvetica,sans-serif" font-size="21" fill="#536478" font-weight="400" text-anchor="start" letter-spacing="0">ESP PWM → TLV3201 + 74LVC1G74 interlock</text>
+<text x="1207" y="1227" font-family="Inter,Arial,Helvetica,sans-serif" font-size="21" fill="#536478" font-weight="400" text-anchor="start" letter-spacing="0">Trip holds switch OFF until next PWM pulse</text>
+<rect x="362" y="1040" width="370" height="165" rx="19" fill="#FFFFFF" stroke="#D6E0EA" stroke-width="2" />
+<rect x="362" y="1040" width="8" height="165" rx="3" fill="#C64D58" stroke="#C64D58" stroke-width="0" />
+<text x="389" y="1066" font-family="Inter,Arial,Helvetica,sans-serif" font-size="17" fill="#C64D58" font-weight="750" text-anchor="start" letter-spacing="1.5">01</text>
+<text x="389" y="1097" font-family="Inter,Arial,Helvetica,sans-serif" font-size="25" fill="#15263B" font-weight="750" text-anchor="start" letter-spacing="0">Hardware load permission</text>
+<text x="389" y="1129" font-family="Inter,Arial,Helvetica,sans-serif" font-size="19" fill="#536478" font-weight="400" text-anchor="start" letter-spacing="0">VIN, VBUS → POWER_GOOD</text>
+<text x="389" y="1157" font-family="Inter,Arial,Helvetica,sans-serif" font-size="19" fill="#536478" font-weight="400" text-anchor="start" letter-spacing="0">START_EN • TMUX1511 gating</text>
+<text x="389" y="1185" font-family="Inter,Arial,Helvetica,sans-serif" font-size="19" fill="#536478" font-weight="400" text-anchor="start" letter-spacing="0">Default state: outputs disabled</text>
+<path d="M282 394.5 L349.0 394.5" fill="none" stroke="#C7782C" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"  opacity="1"/>
+<path d="M 349.00 401.50 L 362.00 394.50 L 349.00 387.50 Z" fill="#C7782C" opacity="1"/>
+<path d="M707 383.5 L764.0 383.5" fill="none" stroke="#C7782C" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"  opacity="1"/>
+<path d="M 764.00 390.50 L 777.00 383.50 L 764.00 376.50 Z" fill="#C7782C" opacity="1"/>
+<path d="M1030 383.5 L1072 383.5" fill="none" stroke="#C7782C" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"  opacity="1"/>
+<path d="M1072 383.5 L1072 292 L1109.0 292.0" fill="none" stroke="#C7782C" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"  opacity="1"/>
+<path d="M 1109.00 299.00 L 1122.00 292.00 L 1109.00 285.00 Z" fill="#C7782C" opacity="1"/>
+<path d="M1072 383.5 L1072 473.5 L1109.0 473.5" fill="none" stroke="#C7782C" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"  opacity="1"/>
+<path d="M 1109.00 480.50 L 1122.00 473.50 L 1109.00 466.50 Z" fill="#C7782C" opacity="1"/>
+<path d="M1799 292 L1862.0 292.0" fill="none" stroke="#C7782C" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"  opacity="1"/>
+<path d="M 1862.00 299.00 L 1875.00 292.00 L 1862.00 285.00 Z" fill="#C7782C" opacity="1"/>
+<path d="M1799 474 L1862.0 474.0" fill="none" stroke="#C7782C" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"  opacity="1"/>
+<path d="M 1862.00 481.00 L 1875.00 474.00 L 1862.00 467.00 Z" fill="#C7782C" opacity="1"/>
+<path d="M777 407 L742 407 L742 585 L590 585 L590.0 614.0" fill="none" stroke="#168274" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"  opacity="1"/>
+<path d="M 583.00 614.00 L 590.00 627.00 L 597.00 614.00 Z" fill="#168274" opacity="1"/>
+<path d="M732 687 L769.0 687.0" fill="none" stroke="#168274" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"  opacity="1"/>
+<path d="M 769.00 694.00 L 782.00 687.00 L 769.00 680.00 Z" fill="#168274" opacity="1"/>
+<path d="M1030 687 L1109.0 687.0" fill="none" stroke="#168274" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"  opacity="1"/>
+<path d="M 1109.00 694.00 L 1122.00 687.00 L 1109.00 680.00 Z" fill="#168274" opacity="1"/>
+<path d="M282 933 L769.0 933.0" fill="none" stroke="#3566AB" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"  opacity="1"/>
+<path d="M 769.00 940.00 L 782.00 933.00 L 769.00 926.00 Z" fill="#3566AB" opacity="1"/>
+<path d="M282 1252.5 L756 1252.5 L756 987 L769.0 987.0" fill="none" stroke="#3566AB" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"  opacity="1"/>
+<path d="M 769.00 994.00 L 782.00 987.00 L 769.00 980.00 Z" fill="#3566AB" opacity="1"/>
+<path d="M1120 918 L1167.0 918.0" fill="none" stroke="#3566AB" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"  opacity="1"/>
+<path d="M 1167.00 925.00 L 1180.00 918.00 L 1167.00 911.00 Z" fill="#3566AB" opacity="1"/>
+<path d="M1120 985 L1150 985 L1150 1172 L1167.0 1172.0" fill="none" stroke="#3566AB" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"  opacity="1"/>
+<path d="M 1167.00 1179.00 L 1180.00 1172.00 L 1167.00 1165.00 Z" fill="#3566AB" opacity="1"/>
+<path d="M362 440 L323 440 L323 1122.5 L349.0 1122.5" fill="none" stroke="#C64D58" stroke-width="3.6" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="9 9" opacity="1"/>
+<path d="M 349.00 1129.50 L 362.00 1122.50 L 349.00 1115.50 Z" fill="#C64D58" opacity="1"/>
+<path d="M732 1122.5 L1135 1122.5 L1135 962 L1167.0 962.0" fill="none" stroke="#C64D58" stroke-width="3.6" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="9 9" opacity="1"/>
+<path d="M 1167.00 969.00 L 1180.00 962.00 L 1167.00 955.00 Z" fill="#C64D58" opacity="1"/>
+<path d="M1135 1122.5 L1135 1230 L1167.0 1230.0" fill="none" stroke="#C64D58" stroke-width="3.6" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="9 9" opacity="1"/>
+<path d="M 1167.00 1237.00 L 1180.00 1230.00 L 1167.00 1223.00 Z" fill="#C64D58" opacity="1"/>
+<path d="M1799 936 L1816 936 L1816 392 L1756 392 L1756.0 380.0" fill="none" stroke="#3566AB" stroke-width="3.7" stroke-linejoin="round" stroke-linecap="round"  opacity="1"/>
+<path d="M 1763.00 380.00 L 1756.00 367.00 L 1749.00 380.00 Z" fill="#3566AB" opacity="1"/>
+<path d="M1799 1184 L1829 1184 L1829 572 L1740 572 L1740.0 560.0" fill="none" stroke="#3566AB" stroke-width="3.7" stroke-linejoin="round" stroke-linecap="round"  opacity="1"/>
+<path d="M 1747.00 560.00 L 1740.00 547.00 L 1733.00 560.00 Z" fill="#3566AB" opacity="1"/>
+<rect x="42" y="1380" width="174" height="48" rx="11" fill="#FFFAF2" stroke="#F0D8BA" stroke-width="1" />
+<text x="129" y="1410" font-family="Inter,Arial,Helvetica,sans-serif" font-size="18" fill="#C7782C" font-weight="780" text-anchor="middle" letter-spacing="1.6">LEGEND</text>
+<path d="M247 1405 L301.0 1405.0" fill="none" stroke="#C7782C" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"  opacity="1"/>
+<path d="M 301.00 1412.00 L 314.00 1405.00 L 301.00 1398.00 Z" fill="#C7782C" opacity="1"/>
+<text x="329" y="1412" font-family="Inter,Arial,Helvetica,sans-serif" font-size="20" fill="#536478" font-weight="400" text-anchor="start" letter-spacing="0">Main DC / load paths</text>
+<path d="M647 1405 L701.0 1405.0" fill="none" stroke="#168274" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"  opacity="1"/>
+<path d="M 701.00 1412.00 L 714.00 1405.00 L 701.00 1398.00 Z" fill="#168274" opacity="1"/>
+<text x="730" y="1412" font-family="Inter,Arial,Helvetica,sans-serif" font-size="20" fill="#536478" font-weight="400" text-anchor="start" letter-spacing="0">Auxiliary 5 V</text>
+<path d="M981 1405 L1035.0 1405.0" fill="none" stroke="#3566AB" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"  opacity="1"/>
+<path d="M 1035.00 1412.00 L 1048.00 1405.00 L 1035.00 1398.00 Z" fill="#3566AB" opacity="1"/>
+<text x="1065" y="1412" font-family="Inter,Arial,Helvetica,sans-serif" font-size="20" fill="#536478" font-weight="400" text-anchor="start" letter-spacing="0">Commands / sensors</text>
+<path d="M1384 1405 L1437.0 1405.0" fill="none" stroke="#C64D58" stroke-width="3.6" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="8 8" opacity="1"/>
+<path d="M 1437.00 1412.00 L 1450.00 1405.00 L 1437.00 1398.00 Z" fill="#C64D58" opacity="1"/>
+<text x="1469" y="1412" font-family="Inter,Arial,Helvetica,sans-serif" font-size="20" fill="#536478" font-weight="400" text-anchor="start" letter-spacing="0">Hardware inhibit / fault</text>
+</svg>
