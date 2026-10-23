@@ -44,6 +44,19 @@ The goal is to enable automated, closed-loop control of engine operating conditi
 - **Closed-loop engine control:** Planned coordination of electrical loading and fuel delivery using sensor feedback.
 - **Power management:** Integrated DC-DC conversion, LiFePO₄ charging, and backup power.
 
+## PCB Layout Concept
+
+The preliminary PCB floorplan illustrates the
+distribution of functional subsystems, the eight
+coarse load channels, and the proposed U-shaped
+high-current busbar arrangement.
+
+![ECAD_Dyno Preliminary PCB Floorplan](images/pcb_floorplan.png)
+
+*Preliminary placement concept. Component positions,
+routing, and mechanical dimensions remain subject
+to revision.*
+
 ## Development Progress
 
 | Stage | Status |
