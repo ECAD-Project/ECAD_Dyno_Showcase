@@ -57,6 +57,18 @@ high-current busbar arrangement.
 routing, and mechanical dimensions remain subject
 to revision.*
 
+## Board Functional Architecture
+
+The PCB integrates five functional sections,
+including power management, high-current load
+switching, hardware protection, and embedded control.
+
+The diagram illustrates the main power paths,
+control signals, sensor interfaces, and hardware
+fault-handling relationships.
+
+![Board Functional Architecture](images/ECAD_Dyno_Board_Functional_Architecture.svg)
+
 ## Development Progress
 
 | Stage | Status |
