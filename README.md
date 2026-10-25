@@ -1,5 +1,5 @@
 # ECAD Dyno
-### Closed-Loop Small Engine Dynamometer Control Board
+### Closed-loop, high-current load and control board
 
 ![ECAD Dyno preliminary PCB assembly](images/3d.png)
 
