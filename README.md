@@ -26,7 +26,7 @@ The goal is to enable automated, closed-loop control of engine operating conditi
 | Nominal electrical system | 12 V |
 | Continuous load current | 150–160 A |
 | Short-duration load current | Up to 200–250 A |
-| Coarse load channels | 8 |
+| Coarse load channels | 8 PMOS |
 | Fine load regulation | MOSFET PWM |
 | Engine power control | External fuel-control servo |
 | Measurements | Torque, RPM, temperature and auxiliary sensors |
